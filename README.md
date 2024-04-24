@@ -57,9 +57,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/faruk-ayrcc25/faruk-ayrcc25/output/snake.svg" alt="Snake animation" />
 
-###
 
 <div align="left">
   <a href="www.linkedin.com/in/ömer-faruk-ayrıç-b5bb69253" target="_blank">
